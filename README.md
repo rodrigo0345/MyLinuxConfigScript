@@ -1,5 +1,6 @@
 # My linux debian based configuration
 Made in order to simplify the setup of a new computer.
+Warnin: Only works with debian based systems
 
 ## Installation
 ```
