@@ -75,7 +75,7 @@ if [ "$SYS" = "Debian" ]; then
     sudo $PKG install openjdk-8-jre -y
     sudo $PKG install openjdk-8-jdk -y
 
-    sudo curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
+    curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
     sudo apt-get install -y nodejs
     sudo $PKG install npm -y
 
