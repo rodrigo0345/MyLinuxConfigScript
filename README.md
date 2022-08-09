@@ -1,6 +1,6 @@
 # Installation
 ```
-git clone https://github.com/libgit2/libgit2
+git clone https://github.com/rodrigo0345/MyLinuxConfigScript.git
 ```
 # Run script
 ```
